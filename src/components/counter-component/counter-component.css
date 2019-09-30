@@ -1,0 +1,15 @@
+.counter {
+  margin-bottom: 1rem;
+}
+.counter__title {
+  margin-bottom: 0;
+}
+.counter__value {
+  width: 90px;
+}
+.counter button {
+  margin: 0.5rem;
+}
+.counter span {
+  min-width: 4rem;
+}
